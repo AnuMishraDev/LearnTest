@@ -1,0 +1,7 @@
+C:\Users\anubhuti.mishra\LearnTest\pub\MyFirstAzureWebApp.exe
+C:\Users\anubhuti.mishra\LearnTest\pub\appsettings.Development.json
+C:\Users\anubhuti.mishra\LearnTest\pub\appsettings.json
+C:\Users\anubhuti.mishra\LearnTest\pub\MyFirstAzureWebApp.dll
+C:\Users\anubhuti.mishra\LearnTest\pub\MyFirstAzureWebApp.deps.json
+C:\Users\anubhuti.mishra\LearnTest\pub\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\anubhuti.mishra\LearnTest\pub\MyFirstAzureWebApp.pdb
